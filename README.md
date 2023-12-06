@@ -1,2 +1,2 @@
 # SpamSmsPredict
- A webside use flask to predict spam sms
+SMS spam detectors using 3 classification methods, namely: Naive-Bayes, Backpropagation and Support Vector Machine
